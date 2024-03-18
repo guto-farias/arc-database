@@ -1,4 +1,4 @@
-preciso de um diagrama ER para uma fábrica de móveis sob-medida, que vai controlar:
+primeira ideia:
 
 controle de estoque -
 	*produto
